@@ -1,6 +1,6 @@
 # app.py  (HOME PAGE)
 import streamlit as st
-from streamlit_lottie import st_lottie
+st.image("assets/dna.png", width=300)
 import os, json
 
 # ---------------- PAGE CONFIG ----------------
