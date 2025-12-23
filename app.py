@@ -173,11 +173,6 @@ with col1:
     </p>
     """, unsafe_allow_html=True)
 
-with col2:
-    if dna_animation:
-        st_lottie(dna_animation, height=200, quality="high")
-    else:
-        st.info("Upload assets/dna_animation.json to display animation here.")
 
 # ---------------- NAVBAR ----------------
 st.markdown("""
