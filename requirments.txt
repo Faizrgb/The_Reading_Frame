@@ -4,4 +4,3 @@ biopython
 numpy
 pandas
 matplotlib
-
