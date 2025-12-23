@@ -1,6 +1,6 @@
 # app.py  (HOME PAGE)
 import streamlit as st
-st.image("assets/dna.png", width=300)
+
 import os, json
 
 # ---------------- PAGE CONFIG ----------------
